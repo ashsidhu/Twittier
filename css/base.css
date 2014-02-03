@@ -1,0 +1,98 @@
+body {
+	background-color: #c0deed;
+	word-wrap: break-word;
+}
+
+a {
+	color: #0084B4;
+}
+
+.profile-header {
+	background-color: #222;
+	text-align: center;
+}
+
+.profile-header img {
+	display: block;
+	margin: auto;
+	width: 33%;
+	height: auto
+}
+
+.profile-header p {
+	color: #FFF;
+}
+
+.profile-header h3 {
+	color: #FFF;
+}
+
+.profile-header h4 {
+	color: #FFF;
+}
+
+.profile-stats button {
+	position: absolute;
+	right: 18px;
+	top: 24px;
+}
+
+.navbar-filler {
+	height: 70px;
+}
+
+img {
+	height: 60px;
+	width: 60px;
+}
+
+.tweet-display img {
+	position: absolute;
+}
+
+.tweet-display .content {
+	position: relative;
+	left: 76px;
+	width: 622px;
+}
+
+.tweet-display .time {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+}
+.tweet-display div.btn-group {
+	position: absolute;
+	right: 55px;
+	top: 15px;
+}
+
+a.tweet-alert {
+	text-align: center;
+}
+
+/*.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.clearfix { display: inline-block; }
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+*/
+.compose button {
+	position: relative;
+	right: -253px;
+	bottom: 10px;
+}
+
+.compose p {
+	
+}
+
+.profile-preview {
+	text-align: center;
+}
