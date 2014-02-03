@@ -49,7 +49,7 @@ var app = {
 	},
 
 	populate: function() {
-		app.signUp('Guneet Sidhu', 'Guneet', 'Hello World', 'a', 'img/guneet.jpg', 'Vancouver')
+		app.signUp('Aman Kaur', 'Aman', 'Enjoying my life', 'a', 'img/aman.jpg', 'India')
 		// spawn all bots
 	},
 
